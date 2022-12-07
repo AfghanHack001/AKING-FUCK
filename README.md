@@ -10,4 +10,5 @@
 >git pull
 
 >chmod 777 LKINGOP
-./LKINGOP
+
+>./LKINGOP
